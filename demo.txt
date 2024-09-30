@@ -1,0 +1,4 @@
+Today we convered,
+1) positions
+2) dimensions
+3) git collabrators
